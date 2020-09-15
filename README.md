@@ -1,4 +1,4 @@
-### Hi there 👋
+### Readme en construcción 😜
 
 
 ![rosepac's github stats](https://github-readme-stats.vercel.app/api?username=rosepac&show_icons=true&hide_border=true)
