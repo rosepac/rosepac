@@ -1,7 +1,11 @@
 ### Readme en construcción 😜
 
+[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ayushkumar25/)
+[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
+[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
+[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
 
-![rosepac's github stats](https://github-readme-stats.vercel.app/api?username=rosepac&show_icons=true&hide_border=true)
+![ROSEPAC's github stats](https://github-readme-stats.vercel.app/api?username=rosepac&show_icons=true&theme=dark)
 <!--
 **rosepac/rosepac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
