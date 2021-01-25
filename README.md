@@ -1,9 +1,9 @@
 ### Readme en construcción 😜
 
-[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ayushkumar25/)
-[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
-[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
-[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
+[![](https://img.shields.io/badge/LinkedIn-ciberninjas-blue)](https://www.linkedin.com/in/ciberninjas/)
+[![](https://img.shields.io/badge/Gmail-rosepac21%40gmail.com-red)](mailto:rosepac21@gmail.com)
+[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ciberninjas)
+[![](https://img.shields.io/badge/Discord-Ciberninjas-brightgreen)](https://discord.gg/vPdXEePgQC)
 
 ![ROSEPAC's github stats](https://github-readme-stats.vercel.app/api?username=rosepac&show_icons=true&theme=dark)
 <!--
