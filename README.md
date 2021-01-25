@@ -1,7 +1,7 @@
 ### Readme en construcción 😜
 
 [![](https://img.shields.io/badge/Twitter-ciberninjas-blue)](https://twitter.com/ciberninjas/)
-[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ciberninjas)
+[![](https://img.shields.io/badge/Telegram-Ciberninjas-blue)](https://t.me/ciberninjas)
 [![](https://img.shields.io/badge/Gmail-rosepac21%40gmail.com-red)](mailto:rosepac21@gmail.com)
 [![](https://img.shields.io/badge/Discord-Ciberninjas-brightgreen)](https://discord.gg/vPdXEePgQC)
 
