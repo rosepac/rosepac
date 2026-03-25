@@ -1,13 +1,14 @@
 ### Readme en construcción 😜
 
-[![](https://img.shields.io/badge/Twitter-ciberninjas-blue)](https://twitter.com/ciberninjas/)
-[![](https://img.shields.io/badge/Telegram-Ciberninjas-blue)](https://t.me/ciberninjas)
-[![](https://img.shields.io/badge/Gmail-rosepac21%40gmail.com-red)](mailto:rosepac21@gmail.com)
-[![](https://img.shields.io/badge/Discord-Ciberninjas-brightgreen)](https://discord.gg/vPdXEePgQC)
+[![](https://img.shields.io/badge/Twitter-cibered-blue)](https://x.com/ciberedx/)
+[![](https://img.shields.io/badge/Telegram-Ciberninjas-blue)](https://t.me/ciberedx)
+[![](https://img.shields.io/badge/Gmail-ciberedx%40gmail.com-red)](mailto:ciberedx@gmail.com)
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=rosepac.readme)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rosepac.readme)
 
 ![ROSEPAC's github stats](https://github-readme-stats.vercel.app/api?username=rosepac&show_icons=true&theme=dark)
+
+![Profile views](https://komarev.com/ghpvc/?username=rosepac&color=blue)
 <!--
 **rosepac/rosepac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
