@@ -1,9 +1,6 @@
-### Readme en construcción 😜
-
-![Visitas Recientes](https://komarev.com/ghpvc/?username=rosepac&color=blue)
-[![](https://img.shields.io/badge/Twitter-cibered-blue)](https://x.com/ciberedx/)
+[![](https://img.shields.io/badge/Gmail-ciberedx%40gmail.com-blue)](mailto:ciberedx@gmail.com)
+[![](https://img.shields.io/badge/X-cibered-blue)](https://x.com/ciberedx/)
 [![](https://img.shields.io/badge/Telegram-Ciberninjas-blue)](https://t.me/ciberedx)
-[![](https://img.shields.io/badge/Gmail-ciberedx%40gmail.com-red)](mailto:ciberedx@gmail.com)
 
 ![ROSEPAC's github stats](https://github-readme-stats.vercel.app/api?username=rosepac&show_icons=true&theme=dark)
 
